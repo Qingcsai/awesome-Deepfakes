@@ -4,12 +4,10 @@
 
 * [1 Deepfakes社会性发展调研报告](#1-Deepfakes社会性发展调研报告)
 * [2 Deepfakes datasets](#2-Deepfakes-datasets)
-* [3 Deepfake Creation ](#3-Deepfake-Creation)
+* [3 Deepfake Creation ](#3-Deepfake-Creation)  
+  * [3.1 Face-swapping methods](#3.1-Face-swapping-methods)
+  * [3.2 Face reenactment method](#3.2-Face-reenactment-method)
 
-> 3 Deepfake Creation  
->> 3.1 Face-swapping methods  
->> 3.2 Face reenactment methods  
->
 > 4 Deepfake Detection  
 >> 4.1 Fake image detection  
 >> 4.2 Fake video detection  
