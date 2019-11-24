@@ -20,15 +20,18 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 
 ### 3.1 Face-swapping methods
 
-* [Deepfakes](https://github.com/deepfakes/faceswap)
-* [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)
-* [FaceSwap](https://github.com/MarekKowalski/FaceSwap)
-* [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/)
-* [Fast Face-swap Using CNN](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
-* [FSGAN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
-* [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
-* [DFaker](https://github.com/dfaker/df)
-* [DeepFake-tf](https://github.com/StromWine/DeepFake_tf)
+* Open-source code
+  * [Deepfakes](https://github.com/deepfakes/faceswap)
+  * [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)
+  * [FaceSwap](https://github.com/MarekKowalski/FaceSwap)
+  * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
+  * [DFaker](https://github.com/dfaker/df)
+  * [DeepFake-tf](https://github.com/StromWine/DeepFake_tf)
+
+* Paper
+  * 2017 ICCV [Fast Face-swap Using CNN](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
+  * 2018 FG [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/)
+  * 2019 ICCV [FSGAN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
 
 ### 3.2 Face reenactment methods
 
