@@ -6,7 +6,7 @@
 * [2 Deepfakes datasets](#2-Deepfakes-datasets)
 * [3 Deepfake Creation](#3-Deepfake-Creation)  
   * [3.1 Face-swapping methods](#31-Face-swapping-methods)
-  * [3.2 Face reenactment method](#32-Face-reenactment-method)
+  * [3.2 Face reenactment method](#32-Face-reenactment-methods)
 * [4 Deepfake Detection](#4-Deepfake-Detection)  
   * [4.1 Fake image detection](#41-Fake-image-detection)
   * [4.2 Fake video detection](#42-Fake-video-detection)
