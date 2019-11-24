@@ -3,7 +3,7 @@
 ## 目录
 
 * [1 Deepfakes社会性发展调研报告](#1-Deepfakes社会性发展调研报告)
-* [2 Deepfakes datasets](#2-Deepfakes-datasets)
+* [2 Deepfakes Datasets](#2-Deepfakes-datasets)
 * [3 Deepfake Creation](#3-Deepfake-Creation)  
   * [3.1 Face-swapping methods](#31-Face-swapping-methods)
   * [3.2 Face reenactment methods](#32-Face-reenactment-methods)
@@ -19,7 +19,7 @@
 
 * 荷兰初创公司[Deeptrace](https://deeptracelabs.com/)发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
 
-## 2 Deepfakes datasets
+## 2 Deepfakes Datasets
 
 Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consent|Tools
 :-------:|:----:|:-----------:|:----:|:---:|:-----:|:--:
