@@ -78,17 +78,17 @@ Year|Publicatidfons|Classifiers/<br>Techniques
 
 Year|Publicatidfons|Classifiers/<br>Techniques
 :--:|:-------------|:--------------------:
-2017 CVPR Workshop|[Two-Stream](https://ieeexplore.ieee.org/abstract/document/8014963)|
-2018 WIFS|[MesoNet](https://ieeexplore.ieee.org/abstract/document/8630761)|CNN
-2019 CVPR Workshop|[Using face warping artifacts](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)|VGG16 ResNet50, 101 or 152
-2019 ICASSP|[Capsule-forensics](https://ieeexplore.ieee.org/abstract/document/8682602)|Capsule networks
+2017 CVPR Workshop|[Two-Stream Neural Networks for Tampered Face Detection](https://ieeexplore.ieee.org/abstract/document/8014963)|
+2018 WIFS|[MesoNet: a Compact Facial Video Forgery Detection Network](https://ieeexplore.ieee.org/abstract/document/8630761)|CNN
+2019 CVPR Workshop|[Exposing DeepFake Videos By Detecting Face Warping Artifacts](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)|VGG16 ResNet50, 101 or 152
+2019 ICASSP|[Capsule-forensics: Using Capsule Networks to Detect Forged Images and Videos](https://ieeexplore.ieee.org/abstract/document/8682602)|Capsule networks
 
 ###### 4.2.2.2 Shallow classifiers
 
 Year|Publications|Classifiers/<br>Techniques
 :--:|:-------------|:--------------------:
-2019 ICASSP|[Head poses](https://ieeexplore.ieee.org/abstract/document/8683164)|SVM
-2019 WACVW|[Eye, teach and facial texture](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network
-2018 IMVIP|[PRNU Analysis](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU
-2019 IEEE Access|[Blockchain](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain
-2019 CVPR Workshops|[Protecting World Leaders](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2
+2019 ICASSP|[Exposing Deep Fakes Using Inconsistent Head Poses](https://ieeexplore.ieee.org/abstract/document/8683164)|SVM
+2019 WACVW|[Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network
+2018 IMVIP|[Detection of Deepfake Video Manipulation](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU
+2019 IEEE Access|[Combating Deepfake Videos Using Blockchain and Smart Contracts](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain
+2019 CVPR Workshops|[Protecting World Leaders Against Deep Fakes](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2
