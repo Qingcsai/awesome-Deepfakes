@@ -76,19 +76,19 @@ Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
 
 ###### 4.2.2.1 Deep classifiers
 
-Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
-:--:|:-------------|:--------------------:|:----------|:-------
-2017 CVPR Workshop|[Two-Stream](https://ieeexplore.ieee.org/abstract/document/8014963)||Created a dataset utilizing one iOS app called SwapMe and an open-source face swap application called FaceSwap.|
-2018 WIFS|[MesoNet](https://ieeexplore.ieee.org/abstract/document/8630761)|CNN|- The generation of Deepfake videos (deepfakes,face2face) is explained in detail. <br> - Two deep networks, i.e. Meso-4 and MesoInception-4 are introduced to examine deepfake videos at the mesoscopic analysis level.|low level
-2019 CVPR Workshop|[Using face warping artifacts](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)|VGG16 ResNet50, 101 or 152|Artifacts are discovered using CNN modelsbased on resolution inconsistency between the warped face area and the surrounding context.
-2019 ICASSP|[Capsule-forensics](https://ieeexplore.ieee.org/abstract/document/8682602)|Capsule networks|- The proposed method yields the best performance compared to its competing methods in all of these data sets|low level
+Year|Publicatidfons|Classifiers/<br>Techniques
+:--:|:-------------|:--------------------:
+2017 CVPR Workshop|[Two-Stream](https://ieeexplore.ieee.org/abstract/document/8014963)|
+2018 WIFS|[MesoNet](https://ieeexplore.ieee.org/abstract/document/8630761)|CNN
+2019 CVPR Workshop|[Using face warping artifacts](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)|VGG16 ResNet50, 101 or 152
+2019 ICASSP|[Capsule-forensics](https://ieeexplore.ieee.org/abstract/document/8682602)|Capsule networks
 
 ###### 4.2.2.2 Shallow classifiers
 
-Year|Publications|Classifiers/<br>Techniques|Description|Feature
-:--:|:-------------|:--------------------:|:----------|:-------
-2019 ICASSP|[Head poses](https://ieeexplore.ieee.org/abstract/document/8683164)|SVM|- by observing the differences between 3D head poses comprising head orientation and position.<br> - Features are extracted using 68 landmarks of the face region. <br> - Use SVM to classify using the extracted features.|using inconsistent head poses
-2019 WACVW|[Eye, teach and facial texture](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network|-The eye feature vector, teeth feature vector and features extracted from the full-face crop are used. <br> - Two classifiers including logistic regression and small neural network are employed to classify the deepfakes from real videos.<br> - Exploit facial texture differences, and missing reflections and details in eye and teeth areas of deepfakes. <br> - Logistic regression and neural network are used for classifying.|low level
-2018 IMVIP|[PRNU Analysis](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU|- Analysis of noise patterns of light sensitive sensors of digital cameras due to their factory defects. <br> - Explore the differences of PRNU patterns between the authentic and deepfake videos because face swapping is believed to alter the local PRNU patterns.|- The authors created a test data set consisting of 10 authentic videos and 16 manipulated videos where the fake videos were produced from the genuine ones by the DeepFaceLab tool.
-2019 IEEE Access|[Blockchain](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain|- This approach is generic, and it can be extended to other types of digital content such as images, audios and manuscripts.<br> - This approach is generic, and it can be extended to other types of digital content such as images, audios and manuscripts.
-2019 CVPR Workshops|[Protecting World Leaders](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2|- When individuals speak, they exhibit relatively distinct patterns of facial and head movements. <br>- We use the Pearson correlation to measure the linearity between these features in order to characterize an individual’s motion signature. <br> - We concentrate on the videos of persons of interest(POIs) talking in a formal setting, for example, weekly address, news interview, and public speech.<br> - Faceswap-GAN used for generating fakes.|
+Year|Publications|Classifiers/<br>Techniques
+:--:|:-------------|:--------------------:
+2019 ICASSP|[Head poses](https://ieeexplore.ieee.org/abstract/document/8683164)|SVM
+2019 WACVW|[Eye, teach and facial texture](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network
+2018 IMVIP|[PRNU Analysis](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU
+2019 IEEE Access|[Blockchain](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain
+2019 CVPR Workshops|[Protecting World Leaders](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2
