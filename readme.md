@@ -66,11 +66,11 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 
 ##### 4.2.1 Temporal features across frames based ones
 
-Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
-:--:|:-------------|:---:|:----------|:-------------
-2018 AVSS|[Intra-frame and temporal inconsistencies](https://ieeexplore.ieee.org/abstract/document/8639163)|CNN and LSTM|- The generation of Deepfake videos(deepfakes,face2face) is explained in detail.<br> -  CNN is employed to extract framelevel features, which are then fed into the LSTM to create a temporal sequence descriptor.<br> - A fully-connected network is used afterwards for classifying doctored videos from real ones based on the sequence descriptor.<br> - CNN is employed to extract frame-level features, which are distributed to LSTM to construct sequence descriptor useful for classification.|low level
-2018 WIFS|[Eye blinking](https://ieeexplore.ieee.org/abstract/document/8630787)|LRCN|- Use LRCN to learn the temporal patterns of eye blinking. <br> - Based on the observation that blinking frequency of deepfakes is much smaller than normal.|by detecting eye blinking.
-2019 CVPR Workshop|[Rsing spatiotemporal features](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)|RCN|-Temporal discrepancies across frames are explored using RCN that integrates convolutional network DenseNet and the gated recurrent unit cells- A deepfake detection method using CNN and LSTM to extract temporal features of a given video sequence, which are  represented via the sequence descriptor. <br> - The detection network consisting of fully-connected layers is employed to take the sequence descriptor as input and calculate probabilities of the frame sequence belonging to either authentic or deepfake class.
+Year|Publicatidfons|Classifiers/<br>Techniques
+:--:|:-------------|:---:
+2018 AVSS|[Intra-frame and temporal inconsistencies](https://ieeexplore.ieee.org/abstract/document/8639163)|CNN and LSTM
+2018 WIFS|[Eye blinking](https://ieeexplore.ieee.org/abstract/document/8630787)|LRCN
+2019 CVPR Workshop|[Rsing spatiotemporal features](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)|RCN
 
 ##### 4.2.2 Visual artifacts within video frame based methods
 
