@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [1 Deepfakes社会性发展调研报告](#1 Deepfakes社会性发展调研报告)
-* [2Deepfakes datasets](#2Deepfakes datasets)
-* [3 Deepfake Creation](#3 Deepfake Creation)
+* [Deepfakes社会性发展调研报告](#Deepfakes社会性发展调研报告)
+* [Deepfakes datasets](#2 Deepfakes datasets)
+* [Deepfake Creation](#3 Deepfake Creation)
 * [3.1 Face-swapping methods](#3.1 Face-swapping methods)
  * [3.2 Face reenactment methods](#3.2 Face reenactment methods)
 * [4 Deepfake Detection](#4 Deepfake Detection)
