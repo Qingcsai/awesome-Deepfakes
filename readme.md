@@ -4,9 +4,21 @@
 
 * 荷兰初创公司Deeptrace发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
 
-## 2 Deepfake Creation
+## 2. Deepfakes datasets/database
 
-### 2.1 Face-swapping methods
+Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consent|Tools
+:-------:|:----:|:-----------:|:----:|:---:|:-----:|:--:
+[UADFV](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8630787)|2018|1 : 1.00|98|YouTube|N|FakeAPP
+[FaceForensics](https://arxiv.org/abs/1803.09179)|2018|1 : 1.00|2008|YouTube|N|Face2Face
+[Deepfake-TIMIT](https://www.idiap.ch/dataset/deepfaketimit)|2019|1 : 1.00|620|Vid-TIMIT|N|faceswap-GAN 
+[FaceForensics++](https://github.com/ondyari/FaceForensics)|2019|1 : 0.25|5000|YouTube|N|faceswap <br> DeepFake <br> Face2Face <br> NeuralTextures
+[Celeb-DF](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)|2019|1 : 0.51|1203|YouTube|N|a refined version of the DeepFake
+[DeepFakeDetection<br>(part of FaceForensics++)](https://deepfakedetectionchallenge.ai/dataset)|2019|1 : 0.12|3363|Actors|Y
+[DFDC Preview Dataset](https://deepfakedetectionchallenge.ai/dataset)|2019|1 : 0.28|5214|Actors|Y|Unkonwn
+
+## 3 Deepfake Creation
+
+### 3.1 Face-swapping methods
 
 * [Deepfakes](https://github.com/deepfakes/faceswap)
 * [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)
@@ -18,7 +30,7 @@
 * [DFaker](https://github.com/dfaker/df)
 * [DeepFake-tf](https://github.com/StromWine/DeepFake_tf)
 
-### 2.2 Face reenactment methods
+### 3.2 Face reenactment methods
 
 * 2014 ICPR [Face Anti-spoofing Based on General Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/6976921)
 * 2015 TIFS [Face spoof detection with image distortion analysis.](https://ieeexplore.ieee.org/abstract/document/7031384)
@@ -34,9 +46,9 @@
 * 2019 [NeuralTexture](https://arxiv.org/abs/1904.12356)
 * 2019 AAAI Oral MMLAB-CUHK [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/abs/1807.07860)
 
-### 3 Deepfake Detection
+### 4 Deepfake Detection
 
-#### 3.1 Fake image detection
+#### 4.1 Fake image detection
 
 * 2017 ICSIP [Automated face swapping and its detection](https://ieeexplore.ieee.org/abstract/document/8124497)
 * 2018 Workshop on IHMS [Fake Faces Identification via Convolutional Neural Network](https://dl.acm.org/citation.cfm?id=3206009)
@@ -47,9 +59,9 @@
 * 2019 [Deep Fake Image Detection based on Pairwise Learning](https://www.preprints.org/manuscript/201905.0013/v1)
 * 2019 [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://arxiv.org/abs/1906.06876)
 
-#### 3.2 Fake video detection
+#### 4.2 Fake video detection
 
-#### 3.2.1 Temporal features across frames based ones
+##### 4.2.1 Temporal features across frames based ones
 
 Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
 :--:|:-------------|:---:|:----------|:-------------
@@ -57,9 +69,9 @@ Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
 2018 WIFS|[Eye blinking](https://ieeexplore.ieee.org/abstract/document/8630787)|LRCN|- Use LRCN to learn the temporal patterns of eye blinking. <br> - Based on the observation that blinking frequency of deepfakes is much smaller than normal.|by detecting eye blinking.
 2019 CVPR Workshop|[Rsing spatiotemporal features](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)|RCN|-Temporal discrepancies across frames are explored using RCN that integrates convolutional network DenseNet and the gated recurrent unit cells- A deepfake detection method using CNN and LSTM to extract temporal features of a given video sequence, which are  represented via the sequence descriptor. <br> - The detection network consisting of fully-connected layers is employed to take the sequence descriptor as input and calculate probabilities of the frame sequence belonging to either authentic or deepfake class.
 
-#### 3.2.2 Visual artifacts within video frame based methods
+##### 4.2.2 Visual artifacts within video frame based methods
 
-##### 3.2.2.1 Deep classifiers
+###### 4.2.2.1 Deep classifiers
 
 Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
 :--:|:-------------|:--------------------:|:----------|:-------
@@ -68,7 +80,7 @@ Year|Publicatidfons|Classifiers/<br>Techniques|Description|Feature
 2019 CVPR Workshop|[Using face warping artifacts](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)|VGG16 ResNet50, 101 or 152|Artifacts are discovered using CNN modelsbased on resolution inconsistency between the warped face area and the surrounding context.
 2019 ICASSP|[Capsule-forensics](https://ieeexplore.ieee.org/abstract/document/8682602)|Capsule networks|- The proposed method yields the best performance compared to its competing methods in all of these data sets|low level
 
-##### 3.2.2.2 Shallow classifiers
+###### 4.2.2.2 Shallow classifiers
 
 Year|Publications|Classifiers/<br>Techniques|Description|Feature
 :--:|:-------------|:--------------------:|:----------|:-------
@@ -76,9 +88,4 @@ Year|Publications|Classifiers/<br>Techniques|Description|Feature
 2019 WACVW|[Eye, teach and facial texture](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network|-The eye feature vector, teeth feature vector and features extracted from the full-face crop are used. <br> - Two classifiers including logistic regression and small neural network are employed to classify the deepfakes from real videos.<br> - Exploit facial texture differences, and missing reflections and details in eye and teeth areas of deepfakes. <br> - Logistic regression and neural network are used for classifying.|low level
 2018 IMVIP|[PRNU Analysis](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU|- Analysis of noise patterns of light sensitive sensors of digital cameras due to their factory defects. <br> - Explore the differences of PRNU patterns between the authentic and deepfake videos because face swapping is believed to alter the local PRNU patterns.|- The authors created a test data set consisting of 10 authentic videos and 16 manipulated videos where the fake videos were produced from the genuine ones by the DeepFaceLab tool.
 2019 IEEE Access|[Blockchain](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain|- This approach is generic, and it can be extended to other types of digital content such as images, audios and manuscripts.<br> - This approach is generic, and it can be extended to other types of digital content such as images, audios and manuscripts.
-2019 CVPR Workshops|[*Protecting World Leaders*](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2|- When individuals speak, they exhibit relatively distinct patterns of facial and head movements. <br>- We use the Pearson correlation to measure the linearity between these features in order to characterize an individual’s motion signature. <br> - We concentrate on the videos of persons of interest(POIs) talking in a formal setting, for example, weekly address, news interview, and public speech.<br> - Faceswap-GAN used for generating fakes.|qwer
-
-
-
-
-
+2019 CVPR Workshops|[*Protecting World Leaders*](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2|- When individuals speak, they exhibit relatively distinct patterns of facial and head movements. <br>- We use the Pearson correlation to measure the linearity between these features in order to characterize an individual’s motion signature. <br> - We concentrate on the videos of persons of interest(POIs) talking in a formal setting, for example, weekly address, news interview, and public speech.<br> - Faceswap-GAN used for generating fakes.|
