@@ -10,7 +10,7 @@
 * [4 Deepfake Detection](#4-Deepfake-Detection)  
   * [4.1 Fake image detection](#41-Fake-image-detection)
   * [4.2 Fake video detection](#42-Fake-video-detection)
-    * [4.2.1 Temporal features across frames based ones ](#421-Temporal-features-across-frames-based-ones)
+   * [4.2.1 Temporal features across frames based ones ](#421-Temporal-features-across-frames-based-ones)
     
 >>> 4.2.1 Temporal features across frames based ones  
 >>> 4.2.2 Visual artifacts within video frame based methods  
