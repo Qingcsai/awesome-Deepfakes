@@ -12,8 +12,8 @@
 >> 4.1 Fake image detection  
 >> 4.2 Fake video detection  
 >>> 4.2.1 Temporal features across frames based ones  
->>> 4.2.2 Visual artifacts within video frame based methods
->>>> 4.2.2.1 Deep classifiers
+>>> 4.2.2 Visual artifacts within video frame based methods  
+>>>> 4.2.2.1 Deep classifiers  
 >>>> 4.2.2.2 Shallow classifiers
 
 
