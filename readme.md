@@ -38,15 +38,15 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 * 2014 ICPR [Face Anti-spoofing Based on General Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/6976921)
 * 2015 TIFS [Face spoof detection with image distortion analysis.](https://ieeexplore.ieee.org/abstract/document/7031384)
 * 2016 CVPR [face2face](http://openaccess.thecvf.com/content_cvpr_2016/html/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.html)
-* 2018 [HeadOn](http://niessnerlab.org/papers/2018/7headon/headon_preprint.pdf)
+* 2018 [HeadOn: Real-time Reenactment of Human Portrait Videos](http://niessnerlab.org/papers/2018/7headon/headon_preprint.pdf)
 * 2017 CVPR [Lip reading sentences in the wild](https://ieeexplore.ieee.org/abstract/document/8099850)
 * 2017 TOG [Synthesizing Obama](https://dl.acm.org/citation.cfm?id=3073640)
-* 2017 TOG [*Bringing portraits to life*](https://dl.acm.org/citation.cfm?id=3130818)
+* 2017 TOG [Bringing portraits to life](https://dl.acm.org/citation.cfm?id=3130818)
 * 2018 EUSIPCO [Speaker inconsistency detection in tampered video](https://ieeexplore.ieee.org/abstract/document/8553270)
 * 2018 TOG [Deep video portraits](https://dl.acm.org/citation.cfm?id=3201283)
-* 2018 [Generative Adversarial Talking Head](https://arxiv.org/abs/1803.07716)
-* 2019 [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233https://arxiv.org/abs/1905.08233)
-* 2019 [NeuralTexture](https://arxiv.org/abs/1904.12356)
+* 2018 arxiv [Generative Adversarial Talking Head](https://.org/abs/1803.07716)
+* 2019 arxiv [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233https://arxiv.org/abs/1905.08233)
+* 2019 arxiv [Deferred Neural Rendering: Image Synthesis using Neural Textures](https://arxiv.org/abs/1904.12356)
 * 2019 AAAI Oral MMLAB-CUHK [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/abs/1807.07860)
 
 ### 4 Deepfake Detection
@@ -54,7 +54,7 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 #### 4.1 Fake image detection
 
 * 2017 ICSIP [Automated face swapping and its detection](https://ieeexplore.ieee.org/abstract/document/8124497)
-* 2018 Workshop on IHMS [Fake Faces Identification via Convolutional Neural Network](https://dl.acm.org/citation.cfm?id=3206009)
+* 2018 IHMS Workshop [Fake Faces Identification via Convolutional Neural Network](https://dl.acm.org/citation.cfm?id=3206009)
 * 2018 MIPR [Detection of GAN-Generated Fake Images over Social Networks](https://ieeexplore.ieee.org/abstract/document/8397040/)
 * 2018 ISCCC [Learning to Detect Fake Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8644886/)
 * 2019 CCBR [On the Generalization of GAN Image Forensics](https://link.springer.com/chapter/10.1007/978-3-030-31456-9_15)
@@ -91,4 +91,4 @@ Year|Publications|Classifiers/<br>Techniques|Description|Feature
 2019 WACVW|[Eye, teach and facial texture](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network|-The eye feature vector, teeth feature vector and features extracted from the full-face crop are used. <br> - Two classifiers including logistic regression and small neural network are employed to classify the deepfakes from real videos.<br> - Exploit facial texture differences, and missing reflections and details in eye and teeth areas of deepfakes. <br> - Logistic regression and neural network are used for classifying.|low level
 2018 IMVIP|[PRNU Analysis](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU|- Analysis of noise patterns of light sensitive sensors of digital cameras due to their factory defects. <br> - Explore the differences of PRNU patterns between the authentic and deepfake videos because face swapping is believed to alter the local PRNU patterns.|- The authors created a test data set consisting of 10 authentic videos and 16 manipulated videos where the fake videos were produced from the genuine ones by the DeepFaceLab tool.
 2019 IEEE Access|[Blockchain](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain|- This approach is generic, and it can be extended to other types of digital content such as images, audios and manuscripts.<br> - This approach is generic, and it can be extended to other types of digital content such as images, audios and manuscripts.
-2019 CVPR Workshops|[*Protecting World Leaders*](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2|- When individuals speak, they exhibit relatively distinct patterns of facial and head movements. <br>- We use the Pearson correlation to measure the linearity between these features in order to characterize an individual’s motion signature. <br> - We concentrate on the videos of persons of interest(POIs) talking in a formal setting, for example, weekly address, news interview, and public speech.<br> - Faceswap-GAN used for generating fakes.|
+2019 CVPR Workshops|[Protecting World Leaders](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2|- When individuals speak, they exhibit relatively distinct patterns of facial and head movements. <br>- We use the Pearson correlation to measure the linearity between these features in order to characterize an individual’s motion signature. <br> - We concentrate on the videos of persons of interest(POIs) talking in a formal setting, for example, weekly address, news interview, and public speech.<br> - Faceswap-GAN used for generating fakes.|
