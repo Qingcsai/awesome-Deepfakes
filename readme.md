@@ -7,10 +7,15 @@
 > 3 Deepfake Creation  
 >> 3.1 Face-swapping methods  
 >> 3.2 Face reenactment methods  
+>
 > 4 Deepfake Detection  
 >> 4.1 Fake image detection  
 >> 4.2 Fake video detection  
 >>> 4.2.1 Temporal features across frames based ones  
+>>> 4.2.2 Visual artifacts within video frame based methods
+>>>> 4.2.2.1 Deep classifiers
+>>>> 4.2.2.2 Shallow classifiers
+
 
 ## 1 Deepfakes社会性发展调研报告
 
