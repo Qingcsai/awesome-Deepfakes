@@ -21,12 +21,12 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 ### 3.1 Face-swapping methods
 
 * Open-source code
-  * [Deepfakes](https://github.com/deepfakes/faceswap)
-  * [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN)
-  * [FaceSwap](https://github.com/MarekKowalski/FaceSwap)
-  * [DeepFaceLab](https://github.com/iperov/DeepFaceLab)
-  * [DFaker](https://github.com/dfaker/df)
-  * [DeepFake-tf](https://github.com/StromWine/DeepFake_tf)
+  * [Deepfakes](https://github.com/deepfakes/faceswap) [Star27.6k]
+  * [Faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN) [Star2.5k]
+  * [FaceSwap](https://github.com/MarekKowalski/FaceSwap) [Star300+]
+  * [DeepFaceLab](https://github.com/iperov/DeepFaceLab) [Star11.1k]
+  * [DFaker](https://github.com/dfaker/df) [Star300+]
+  * [DeepFake-tf](https://github.com/StromWine/DeepFake_tf) [Star<10]
 
 * Paper
   * 2017 ICCV [Fast Face-swap Using CNN](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
