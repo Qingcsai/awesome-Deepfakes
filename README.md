@@ -1,6 +1,6 @@
-# Deepfakes相关资料整理
+# All about Deepfakes
 
-## 目录
+## Catalogue
 
 * [1 Deepfakes社会性发展调研报告](#1-Deepfakes社会性发展调研报告)
 * [2 Deepfakes Datasets](#2-Deepfakes-datasets)
