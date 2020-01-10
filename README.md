@@ -17,6 +17,7 @@
 
 ## 1 Deepfakes survey
 
+* 2019arXiv [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
 * 2020arXiv [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
 * 荷兰初创公司[Deeptrace](https://deeptracelabs.com/)发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
 
@@ -48,6 +49,7 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
   * 2017 ICCV [Fast Face-swap Using CNN](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
   * 2018 FG [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/)
   * 2019 ICCV [FSGAN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
+  * 2020 arXiv[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)
 
 ### 3.2 Face reenactment methods
 
