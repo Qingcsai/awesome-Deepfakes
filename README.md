@@ -46,19 +46,19 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
   * [DeepFake-tf](https://github.com/StromWine/DeepFake_tf) [Star<10]
 
 * Paper
-  * 2017 ICCV [Fast Face-swap Using CNN](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
+  * 2017 ICCV [Fast Face-Swap Using Convolutional Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
   * 2018 FG [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/)
-  * 2019 ICCV [FSGAN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
+  * 2019 ICCV [FSGAN: Subject Agnostic Face Swapping and Reenactment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
   * 2020 arXiv[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)
 
 ### 3.2 Face reenactment methods
 
 * 2014 ICPR [Face Anti-spoofing Based on General Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/6976921)
 * 2015 TIFS [Face spoof detection with image distortion analysis.](https://ieeexplore.ieee.org/abstract/document/7031384)
-* 2016 CVPR [face2face](http://openaccess.thecvf.com/content_cvpr_2016/html/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.html)
+* 2016 CVPR [Face2Face: Real-Time Face Capture and Reenactment of RGB Videos](http://openaccess.thecvf.com/content_cvpr_2016/html/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.html)
 * 2018 [HeadOn: Real-time Reenactment of Human Portrait Videos](http://niessnerlab.org/papers/2018/7headon/headon_preprint.pdf)
 * 2017 CVPR [Lip reading sentences in the wild](https://ieeexplore.ieee.org/abstract/document/8099850)
-* 2017 TOG [Synthesizing Obama](https://dl.acm.org/citation.cfm?id=3073640)
+* 2017 TOG [Synthesizing Obama: learning lip sync from audio](https://dl.acm.org/citation.cfm?id=3073640)
 * 2017 TOG [Bringing portraits to life](https://dl.acm.org/citation.cfm?id=3130818)
 * 2018 EUSIPCO [Speaker inconsistency detection in tampered video](https://ieeexplore.ieee.org/abstract/document/8553270)
 * 2018 TOG [Deep video portraits](https://dl.acm.org/citation.cfm?id=3201283)
@@ -84,17 +84,17 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 
 ##### 4.2.1 Temporal features across frames based ones
 
-Year|Publicatidfons|Classifiers/<br>Techniques
+Year|Publications|Classifiers/<br>Techniques
 :--:|:-------------|:---:
 2018 AVSS|[Intra-frame and temporal inconsistencies](https://ieeexplore.ieee.org/abstract/document/8639163)|CNN and LSTM
-2018 WIFS|[Eye blinking](https://ieeexplore.ieee.org/abstract/document/8630787)|LRCN
-2019 CVPR Workshop|[Rsing spatiotemporal features](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)|RCN
+2018 WIFS|[In Ictu Oculi: Exposing AI Created Fake Videos by Detecting Eye Blinking](https://ieeexplore.ieee.org/abstract/document/8630787)|LRCN
+2019 CVPR Workshop|[Recurrent Convolutional Strategies for Face Manipulation Detection in Videos](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)|RCN
 
 ##### 4.2.2 Visual artifacts within video frame based methods
 
 ###### 4.2.2.1 Deep classifiers
 
-Year|Publicatidfons|Classifiers/<br>Techniques
+Year|Publications|Classifiers/<br>Techniques
 :--:|:-------------|:--------------------:
 2017 CVPR Workshop|[Two-Stream Neural Networks for Tampered Face Detection](https://ieeexplore.ieee.org/abstract/document/8014963)|Two-Stream
 2018 WIFS|[MesoNet: a Compact Facial Video Forgery Detection Network](https://ieeexplore.ieee.org/abstract/document/8630761)|CNN
