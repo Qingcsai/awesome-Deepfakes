@@ -17,6 +17,7 @@
 
 ## 1 Deepfakes survey
 
+* 2018arxiv [DeepFakes: a New Threat to Face Recognition? Assessment and Detection](https://arxiv.org/abs/1812.08685)
 * 2019arXiv [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
 * 2020arXiv [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
 * 荷兰初创公司[Deeptrace](https://deeptracelabs.com/)发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
