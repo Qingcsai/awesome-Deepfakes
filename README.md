@@ -55,7 +55,7 @@ Year|Publications
 2017 ICCV | [Fast Face-Swap Using Convolutional Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
 2018 FG | [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/)
 2019 ICCV | [FSGAN: Subject Agnostic Face Swapping and Reenactment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
-2020 arXiv | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)
+2020 CVPR(Oral) | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](http://lingzhili.com/FaceShifterPage/)
 
 ### 3.2 Face reenactment methods
 
@@ -64,15 +64,15 @@ Year|Publications
 2014 ICPR | [Face Anti-spoofing Based on General Image Quality Assessment](https://ieeexplore.ieee.org/abstract/document/6976921)
 2015 TIFS | [Face spoof detection with image distortion analysis.](https://ieeexplore.ieee.org/abstract/document/7031384)
 2016 CVPR | [Face2Face: Real-Time Face Capture and Reenactment of RGB Videos](http://openaccess.thecvf.com/content_cvpr_2016/html/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.html)
-2018 arxiv | [HeadOn: Real-time Reenactment of Human Portrait Videos](http://niessnerlab.org/papers/2018/7headon/headon_preprint.pdf)
+2018 TOG | [HeadOn: Real-time Reenactment of Human Portrait Videos](https://dl.acm.org/doi/abs/10.1145/3197517.3201350)
 2017 CVPR | [Lip reading sentences in the wild](https://ieeexplore.ieee.org/abstract/document/8099850)
 2017 TOG | [Synthesizing Obama: learning lip sync from audio](https://dl.acm.org/citation.cfm?id=3073640)
 2017 TOG | [Bringing portraits to life](https://dl.acm.org/citation.cfm?id=3130818)
 2018 EUSIPCO | [Speaker inconsistency detection in tampered video](https://ieeexplore.ieee.org/abstract/document/8553270)
 2018 TOG | [Deep video portraits](https://dl.acm.org/citation.cfm?id=3201283)
-2018 arxiv | [Generative Adversarial Talking Head](https://.org/abs/1803.07716)
-2019 arxiv | [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233https://arxiv.org/abs/1905.08233)
-2019 arxiv | [Deferred Neural Rendering: Image Synthesis using Neural Textures](https://arxiv.org/abs/1904.12356)
+2018 arxiv | [Generative adversarial talking head: Bringing portraits to life with a weakly supervised neural network](https://arxiv.org/abs/1803.07716)
+2019 ICCV | [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_Few-Shot_Adversarial_Learning_of_Realistic_Neural_Talking_Head_Models_ICCV_2019_paper.html)
+2019 TOG | [Deferred Neural Rendering: Image Synthesis using Neural Textures](https://arxiv.org/abs/1904.12356)
 2019 AAAI Oral MMLAB-CUHK | [Talking Face Generation by Adversarially Disentangled Audio-Visual Representation](https://arxiv.org/abs/1807.07860)
 
 ### 4 Deepfake Detection
