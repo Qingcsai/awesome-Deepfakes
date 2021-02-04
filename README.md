@@ -21,6 +21,7 @@
 * 2019arXiv [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
 * 2020arXiv [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
 * 2020arXiv [Media Forensics and DeepFakes: an overview](https://www.semanticscholar.org/paper/Media-Forensics-and-DeepFakes%3A-an-overview-Verdoliva/10e19c22877621990f64ec7190364e63c0dcda68)
+* 2021ACM Computing Surveys [The Creation and Detection of Deepfakes: A Survey](https://dl.acm.org/doi/abs/10.1145/3425780)
 * 荷兰初创公司[Deeptrace](https://deeptracelabs.com/)发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
 
 ## 2 Deepfakes Datasets
