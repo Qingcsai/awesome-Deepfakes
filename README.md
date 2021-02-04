@@ -17,11 +17,11 @@
 
 ## 1 Deepfakes survey
 
-* 2018arxiv [DeepFakes: a New Threat to Face Recognition? Assessment and Detection](https://arxiv.org/abs/1812.08685)
-* 2019arXiv [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
-* 2020arXiv [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
-* 2020arXiv [Media Forensics and DeepFakes: an overview](https://www.semanticscholar.org/paper/Media-Forensics-and-DeepFakes%3A-an-overview-Verdoliva/10e19c22877621990f64ec7190364e63c0dcda68)
-* 2021ACM Computing Surveys [The Creation and Detection of Deepfakes: A Survey](https://dl.acm.org/doi/abs/10.1145/3425780)
+* 2018 arxiv [DeepFakes: a New Threat to Face Recognition? Assessment and Detection](https://arxiv.org/abs/1812.08685)
+* 2019 arXiv [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
+* 2020 arXiv [DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/abs/2001.00179)
+* 2020 arXiv [Media Forensics and DeepFakes: an overview](https://www.semanticscholar.org/paper/Media-Forensics-and-DeepFakes%3A-an-overview-Verdoliva/10e19c22877621990f64ec7190364e63c0dcda68)
+* 2021 ACM Computing Surveys [The Creation and Detection of Deepfakes: A Survey](https://dl.acm.org/doi/abs/10.1145/3425780)
 * 荷兰初创公司[Deeptrace](https://deeptracelabs.com/)发布两个年度（2018年和2019年）[Deepfakes发展状况调研报告](https://github.com/Qingcsai/Deepfakes-Zoo/tree/master/the-state-of-deepfakes)
 
 ## 2 Deepfakes Datasets
@@ -86,9 +86,9 @@ Year|Publications
 2018 MIPR | [Detection of GAN-Generated Fake Images over Social Networks](https://ieeexplore.ieee.org/abstract/document/8397040/)
 2018 ISCCC | [Learning to Detect Fake Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8644886/)
 2019 CCBR | [On the Generalization of GAN Image Forensics](https://link.springer.com/chapter/10.1007/978-3-030-31456-9_15)
-2019 | [Limits of Deepfake Detection: A Robust Estimation Viewpoint](https://arxiv.org/abs/1905.03493)
-2019 | [Deep Fake Image Detection based on Pairwise Learning](https://www.preprints.org/manuscript/201905.0013/v1)
-2019 | [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://arxiv.org/abs/1906.06876)
+2019 aXiv | [Limits of Deepfake Detection: A Robust Estimation Viewpoint](https://arxiv.org/abs/1905.03493)
+2019 MDPI AG | [Deep Fake Image Detection based on Pairwise Learning](https://www.mdpi.com/2076-3417/10/1/370)
+2019 IEEE BTAS | [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://ieeexplore.ieee.org/abstract/document/9185974)
 
 #### 4.2 Fake video detection
 
