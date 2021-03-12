@@ -89,9 +89,9 @@ Year|Publications
 2019 aXiv | [Limits of Deepfake Detection: A Robust Estimation Viewpoint](https://arxiv.org/abs/1905.03493)
 2019 MDPI AG | [Deep Fake Image Detection based on Pairwise Learning](https://www.mdpi.com/2076-3417/10/1/370)
 2019 IEEE BTAS | [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://ieeexplore.ieee.org/abstract/document/9185974)
+2021 CVPR | [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)
 
 #### 4.2 Fake video detection
-
 ##### 4.2.1 Temporal features across frames based ones
 
 Year|Publications|Classifiers/<br>Techniques
@@ -101,22 +101,14 @@ Year|Publications|Classifiers/<br>Techniques
 2019 CVPR Workshop|[Recurrent Convolutional Strategies for Face Manipulation Detection in Videos](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Sabir_Recurrent_Convolutional_Strategies_for_Face_Manipulation_Detection_in_Videos_CVPRW_2019_paper.pdf)|RCN
 
 ##### 4.2.2 Visual artifacts within video frame based methods
-
-###### 4.2.2.1 Deep classifiers
-
 Year|Publications|Classifiers/<br>Techniques
 :--:|:-------------|:--------------------:
 2017 CVPR Workshop|[Two-Stream Neural Networks for Tampered Face Detection](https://ieeexplore.ieee.org/abstract/document/8014963)|Two-Stream
 2018 WIFS|[MesoNet: a Compact Facial Video Forgery Detection Network](https://ieeexplore.ieee.org/abstract/document/8630761)|CNN
+2018 IMVIP|[Detection of Deepfake Video Manipulation](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU
 2019 CVPR Workshop|[Exposing DeepFake Videos By Detecting Face Warping Artifacts](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Li_Exposing_DeepFake_Videos_By_Detecting_Face_Warping_Artifacts_CVPRW_2019_paper.pdf)|VGG16 ResNet50, 101 or 152
 2019 ICASSP|[Capsule-forensics: Using Capsule Networks to Detect Forged Images and Videos](https://ieeexplore.ieee.org/abstract/document/8682602)|Capsule networks
-
-###### 4.2.2.2 Shallow classifiers
-
-Year|Publications|Classifiers/<br>Techniques
-:--:|:-------------|:--------------------:
 2019 ICASSP|[Exposing Deep Fakes Using Inconsistent Head Poses](https://ieeexplore.ieee.org/abstract/document/8683164)|SVM
 2019 WACVW|[Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations](https://ieeexplore.ieee.org/abstract/document/8638330)|Logistic regression and neural network
-2018 IMVIP|[Detection of Deepfake Video Manipulation](https://www.researchgate.net/profile/Zeno_Geradts/publication/329814168_Detection_of_Deepfake_Video_Manipulation/links/5c1bdf7da6fdccfc705da03e/Detection-of-Deepfake-Video-Manipulation.pdf)|PRNU
 2019 IEEE Access|[Combating Deepfake Videos Using Blockchain and Smart Contracts](https://ieeexplore.ieee.org/abstract/document/8668407)|Blockchain
 2019 CVPR Workshops|[Protecting World Leaders Against Deep Fakes](https://pdfs.semanticscholar.org/ac1f/84cc50f31b2ae7775820242d7c71f1c3f42a.pdf)|svm, OpenFace2
