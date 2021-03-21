@@ -35,6 +35,7 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 [DeepFakeDetection<br>(part of FaceForensics++)](https://deepfakedetectionchallenge.ai/dataset)|2019|1 : 0.12|3363|Actors|Y
 [Celeb-DF](http://www.cs.albany.edu/~lsw/celeb-deepfakeforensics.html)|2019|1 : 0.51|1203|YouTube|N|a refined version of the DeepFake
 [DFDC Preview Dataset](https://deepfakedetectionchallenge.ai/dataset)|2019|1 : 0.28|5214|Actors|Y|Unkonwn
+[KoDF](https://arxiv.org/abs/2103.10094)|2021| | | | 
 
 ## 3 Deepfake Creation
 
@@ -90,6 +91,7 @@ Year|Publications
 2019 MDPI AG | [Deep Fake Image Detection based on Pairwise Learning](https://www.mdpi.com/2076-3417/10/1/370)
 2019 IEEE BTAS | [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://ieeexplore.ieee.org/abstract/document/9185974)
 2021 CVPR | [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)
+2021 CVPR | [Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain](https://arxiv.org/abs/2103.01856)
 
 #### 4.2 Fake video detection
 ##### 4.2.1 Temporal features across frames based ones
