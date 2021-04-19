@@ -83,18 +83,18 @@ Year|Publications
 
 Year|Publications|Authors
 :--:|:-------------:|:--:
-2017 ICSIP | [Automated face swapping and its detection](https://ieeexplore.ieee.org/abstract/document/8124497)
-2018 IHMS Workshop | [Fake Faces Identification via Convolutional Neural Network](https://dl.acm.org/citation.cfm?id=3206009)
-2018 MIPR | [Detection of GAN-Generated Fake Images over Social Networks](https://ieeexplore.ieee.org/abstract/document/8397040/)
-2018 ISCCC | [Learning to Detect Fake Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8644886/)
+2017 ICSIP | [Automated face swapping and its detection](https://ieeexplore.ieee.org/abstract/document/8124497) | Ying Zhang; Lilei Zheng; Vrizlynn L. L. Thing
+2018 IHMS Workshop | [Fake Faces Identification via Convolutional Neural Network](https://dl.acm.org/citation.cfm?id=3206009) |Huaxiao Mo, Bolin Chen, Weiqi  Luo
+2018 MIPR | [Detection of GAN-Generated Fake Images over Social Networks](https://ieeexplore.ieee.org/abstract/document/8397040/) |Francesco Marra; Diego Gragnaniello; Davide Cozzolino; Luisa Verdoliva
+2018 ISCCC | [Learning to Detect Fake Face Images in the Wild](https://ieeexplore.ieee.org/abstract/document/8644886/)| Chih-Chung Hsu; Chia-Yen Lee; Yi-Xiu Zhuang
 2019 CCBR | [On the Generalization of GAN Image Forensics](https://link.springer.com/chapter/10.1007/978-3-030-31456-9_15)
-2019 aXiv | [Limits of Deepfake Detection: A Robust Estimation Viewpoint](https://arxiv.org/abs/1905.03493)
-2019 MDPI AG | [Deep Fake Image Detection based on Pairwise Learning](https://www.mdpi.com/2076-3417/10/1/370)
-2019 IEEE BTAS | [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://ieeexplore.ieee.org/abstract/document/9185974)
-2021 CVPR | [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)
-2021 CVPR | [Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain](https://arxiv.org/abs/2103.01856)
+2019 aXiv | [Limits of Deepfake Detection: A Robust Estimation Viewpoint](https://arxiv.org/abs/1905.03493) |Sakshi Agarwal, Lav R. Varshney
+2019 MDPI AG | [Deep Fake Image Detection based on Pairwise Learning](https://www.mdpi.com/2076-3417/10/1/370) |Chih-Chung Hsu, Yi-Xiu Zhuang and Chia-Yen Lee 
+2019 IEEE BTAS | [Multi-task learning for detecting and segmenting manipulated facial images and videos](https://ieeexplore.ieee.org/abstract/document/9185974) |Huy H. Nguyen; Fuming Fang; Junichi Yamagishi; Isao Echizen
+2021 CVPR | [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406) |Hanqing Zhao, Wenbo Zhou, Dongdong Chen, Tianyi Wei, Weiming Zhang, Nenghai Yu
+2021 CVPR | [Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain](https://arxiv.org/abs/2103.01856) |Honggu Liu, Xiaodan Li, Wenbo Zhou, Yuefeng Chen, Yuan He, Hui Xue, Weiming Zhang, Nenghai Yu
 2021 CVPR | [Improving the Efficiency and Robustness of Deepfakes Detection through Precise Geometric Features](https://arxiv.org/abs/2104.04480) | Zekun Sun, Yujie Han, Zeyu Hua, Na Ruan, Weijia Jia
-2021 CVPR | [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)
+2021 CVPR | [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096) |Jiaming Li, Hongtao Xie, Jiahong Li, Zhongyuan Wang, Yongdong Zhang
 2021 CVPR | [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211) | Zhikai Chen, Lingxi Xie, Shanmin Pang, Yong He, Bo Zhang
 
 
