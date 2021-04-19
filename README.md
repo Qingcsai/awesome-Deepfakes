@@ -52,12 +52,12 @@ Datasets|Year|Ratio<br>tampered:original|Total videos|Source|Participants Consen
 
 * Paper
 
-Year|Publications
-:--:|:-------------:
-2017 ICCV | [Fast Face-Swap Using Convolutional Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html)
-2018 FG | [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/)
-2019 ICCV | [FSGAN: Subject Agnostic Face Swapping and Reenactment](http://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)
-2020 CVPR(Oral) | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](http://lingzhili.com/FaceShifterPage/)
+Year|Publications|Authors
+:--:|:-------------:|:-----:
+2017 ICCV | [Fast Face-Swap Using Convolutional Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.html) |Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis
+2018 IEEE FG | [On Face Segmentation, Face Swapping, and Face Perception](https://ieeexplore.ieee.org/abstract/document/8373817/) |Yuval Nirkin; Iacopo Masi; Anh Tran Tuan; Tal Hassner; Gerard Medioni
+2019 ICCV | [FSGAN: Subject Agnostic Face Swapping and Reenactment](https://openaccess.thecvf.com/content_ICCV_2019/html/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.html) | Yuval Nirkin, Yosi Keller, Tal Hassner
+2020 CVPR(Oral) | [FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](http://lingzhili.com/FaceShifterPage/) |Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen
 
 ### 3.2 Face reenactment methods
 
